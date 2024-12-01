@@ -43,7 +43,7 @@ A React-based web application designed for Girman Technologies as part of a fron
    git clone https://github.com/royabhi647/search-based-web-app.git
 
 2. Install dependencies:
-  <code>npm install</code>
+  <pre>npm install</pre>
 
 3. Run application on browser:
-  <code>npm run dev</code>
+  <pre>npm run dev</pre>
