@@ -2,7 +2,7 @@
 
 A React-based web application designed for Girman Technologies as part of a frontend development assignment. The application provides a search functionality to find user details with a responsive, card-based UI.
 
-## [Deployment link](https://property-listings-lovat.vercel.app/)
+## [Deployment link](https://abhii-search-based-app.netlify.app/)
 
 ## Features
 
