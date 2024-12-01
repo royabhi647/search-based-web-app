@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useLocation } from 'react-router-dom';
-import emptyData from '../assets/emptyData.svg';
+import emptyData from '../assets/emptydata.svg';
 import Card from '@/components/common/Card';
 import Navbar from '@/components/common/Navbar';
 
